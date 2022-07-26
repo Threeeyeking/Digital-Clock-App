@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 from tkinter import Label, Tk
 import time
 app_window = Tk()
@@ -20,3 +21,6 @@ def digital_clock():
 
 digital_clock()
 app_window.mainloop()
+=======
+
+>>>>>>> origin/main
